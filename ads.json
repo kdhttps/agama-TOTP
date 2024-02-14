@@ -15,7 +15,7 @@
             "2fa"
         ],
         "noDirectLaunch": [
-            "org.gluu.agama.totp.enroll"
+            "org.gluu.agama.totp.pw"
         ],
         "configs": {
             "org.gluu.agama.totp.pw": {},
