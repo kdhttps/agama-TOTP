@@ -1,1 +1,20 @@
-{}
+{
+    "agama-totp": {
+        "projectName": "agama-totp",
+        "description": "Open Authentication (OATH) defined Time-based One Time Password (TOTP) - Gluu Agama Plugin",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/agama-totp",
+        "githubUri": "https://github.com/kdhttps/agama-totp",
+        "license": "apache-2.0",
+        "lastUpdated": "1707898275883",
+        "tags": [
+            "jans",
+            "totp",
+            "2fa"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
