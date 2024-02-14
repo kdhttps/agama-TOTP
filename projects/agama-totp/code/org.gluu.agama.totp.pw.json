@@ -16,7 +16,8 @@
 				"position": {
 					"x": 4,
 					"y": -24
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -1117,8 +1118,8 @@
 		}
 	],
 	"viewport": {
-		"x": 84,
-		"y": 107,
+		"x": 10,
+		"y": 15,
 		"zoom": 1
 	}
 }
