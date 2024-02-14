@@ -1,2 +1,1 @@
-# agama-TOTP
-Agama TOTP Gluu Project
+### Agama Project Folder
