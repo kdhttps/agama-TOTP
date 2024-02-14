@@ -14,7 +14,20 @@
             "totp",
             "2fa"
         ],
-        "noDirectLaunch": [],
-        "configs": {}
+        "noDirectLaunch": [
+            "org.gluu.agama.totp.enroll",
+            "org.gluu.agama.totp.pw"
+        ],
+        "configs": {
+            "org.gluu.agama.totp.pw": {},
+            "org.gluu.agama.totp.enroll": {},
+            "org.gluu.agama.totp.main": {
+                "qrCodeLabel": "Gluu",
+                "qrCodeAlg": "sha1",
+                "qrCodeKeyLength": 20
+            },
+            "org.gluu.agama.totp.otp": {}
+        },
+        "name": "agama-totp"
     }
 }
